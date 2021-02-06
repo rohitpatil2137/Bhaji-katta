@@ -12,8 +12,8 @@
 <body>
     <nav class="navbar background-sm hnav-resp" style="height: 48px;">
         <ul class="nav-list v-class-resp">
-            <div class="logo"><a href="index.html"><img src="img/logo.png" alt="logo"></a></div>
-            <li> <a href="index.html">Home</a></li>
+            <div class="logo"><a href="index.php"><img src="img/logo.png" alt="logo"></a></div>
+            <li> <a href="index.php">Home</a></li>
             <li> <a href="cake-product.html">Cakes</a></li>
             <li> <a href="Vegetables.html">Vegetables</a></li>
             <li><a href="Contact_Us.php">Contact US</a></li>       
